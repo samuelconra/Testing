@@ -3,10 +3,15 @@ Broken Commit.
 
 git commit --ammend (Ayuda a agregar un cambio nuevo en el último commit).
 
-git revert (sirve para revertir un commit)
+git revert IdCommit (sirve para revertir un commit)
 
-git blame (ver quien hizo los cambios de cada línea)
+git blame NombreArchivo (ver quien hizo los cambios de cada línea)
 
 git stash (guarda los cambios en un limbo)
 
 git stash pop (combina los cambios del repositorio con los del limbo)
+
+git switch -c feature/login (Crea una rama y te cambia a ella) (git checkout hace lo mismo)
+git switch NombreRama (cambia a esa rama)
+
+git branch (ver en que rama se encuentra)
