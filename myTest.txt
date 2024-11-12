@@ -4,3 +4,5 @@ Broken Commit.
 git commit --ammend (Ayuda a agregar un cambio nuevo en el último commit).
 
 git revert (sirve para revertir un commit)
+
+git blame (ver quien hizo los cambios de cada línea)
