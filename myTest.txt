@@ -2,3 +2,5 @@ This is a test.
 Broken Commit.
 
 git commit --ammend (Ayuda a agregar un cambio nuevo en el último commit).
+
+Este es un error.
